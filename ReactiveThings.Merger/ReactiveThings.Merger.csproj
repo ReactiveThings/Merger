@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <Company>Reactive Things</Company>
+    <Authors>Paweł Milka</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/ReactiveThings/Merger</RepositoryUrl>
+    <Description>Merge two collections in C#. Inspired by SQL MERGE statement.</Description>
+    <PackageLicenseUrl>https://github.com/ReactiveThings/Merger/blob/master/LICENSE</PackageLicenseUrl>
+  </PropertyGroup>
+
+</Project>
