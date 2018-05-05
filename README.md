@@ -1,3 +1,6 @@
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/ReactiveThings/merger?branch=master&svg=true)](https://ci.appveyor.com/project/ReactiveThings/merger) 
+[![NuGet](https://img.shields.io/nuget/dt/ReactiveThings.Merger.svg)](https://www.nuget.org/packages/ReactiveThings.Merger) 
+
 # Merger
 Merge two collections in C#. Inspired by SQL MERGE statement.
 
